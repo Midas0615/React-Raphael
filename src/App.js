@@ -6,7 +6,7 @@ const {Raphael,Paper,Set,Circle,Ellipse,Image,Rect,Text,Path,Line} = require('re
 
 class App extends React.Component{
   render(){
-
+    
       return (
         <div>
             <Graph />
